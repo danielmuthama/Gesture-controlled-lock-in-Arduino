@@ -27,5 +27,6 @@ Attach the LCD as shown. If you don't have a 10k potentiometer, use a 1k resisto
 I used a simple cardboard box and cut holes out of it to match where the components would go. You could solder this all to a piece of board, but I just left it in the breadboard and connected jumper wires to the components. After I was finished, it looked like this.
 > Schematic
 <img src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/schematic_bb3_ojGtzuoycT.png" width="500" height="400" />
+
 ### Arduino Code: written in C++
     code shown in the above file 
