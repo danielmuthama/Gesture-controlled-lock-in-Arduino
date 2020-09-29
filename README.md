@@ -1,7 +1,7 @@
 
 ### Designing a gesture-controlled lock using Arduino
 
-<img src="https://www.facebook.com/dano.muthama/videos/2667015353515337/" width="500" height="400" />
+<img src="https://youtu.be/VZHX5NwCBbw" width="500" height="400" />
 > Component used in this project
 ### Hardware components
 Spark Fun APDS - 9960
