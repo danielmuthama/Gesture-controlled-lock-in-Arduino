@@ -24,9 +24,5 @@ I used a simple cardboard box and cut holes out of it to match where the compone
 Schematic
 
 
-
-
-
-
 ### Arduino Code: written in C++
     code shown in the above file 
