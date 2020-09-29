@@ -26,6 +26,6 @@ Attach the LCD as shown. If you don't have a 10k potentiometer, use a 1k resisto
 
 I used a simple cardboard box and cut holes out of it to match where the components would go. You could solder this all to a piece of board, but I just left it in the breadboard and connected jumper wires to the components. After I was finished, it looked like this.
 > Schematic
-
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" height="200" />
 ### Arduino Code: written in C++
     code shown in the above file 
