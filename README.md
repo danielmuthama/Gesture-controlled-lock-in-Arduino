@@ -3,18 +3,19 @@
 [![Watch the video](https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/Screenshot_2020-09-29%20Webmole%200%203%20Open%20Source%20Application%20Presentation.png)](https://youtu.be/VZHX5NwCBbw)
 > Component used in this project
 ### Hardware components
-Spark Fun APDS - 9960
-Arduino UNO & Genuino UNO
-RGB Diffused Common Cathode
-Adafruit Standard LCD – 16 x 2 White on Blue
-Resistor 4.75k ohm
-Jumper wires (generic)
-Resistor 1k ohm
-Software and online services
-Arduino IDE
+
+    Spark Fun APDS - 9960
+    Arduino UNO & Genuino UNO
+    RGB Diffused Common Cathode
+    Adafruit Standard LCD – 16 x 2 White on Blue
+    Resistor 4.75k ohm
+    Jumper wires (generic)
+    Resistor 1k ohm
+    Software and online services
+    Arduino IDE
 
 > Note that:
-The APDS-9960 sensor does not work with the Arduino Nano or Mega 2560 (in my testing).
+    The APDS-9960 sensor does not work with the Arduino Nano or Mega 2560 (in my testing).
 
 This project is cheap, easy to make and implement. Feel free to use any kind of servo or latching mechanism with this project. This is meant to be a starting platform for a gesture-controlled lock.
 
