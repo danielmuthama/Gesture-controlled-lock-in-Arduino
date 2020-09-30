@@ -30,4 +30,4 @@ I used a simple cardboard box and cut holes out of it to match where the compone
 <img src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/schematic_bb3_ojGtzuoycT.png" width="500" height="400" />
 
 ### Arduino Code: written in C++
-    code shown in the above file 
+    code shown in the above file https://github.com/danielmuthama/Gesture-controlled-lock-in-Arduino/blob/master/Arduinominiproject.mm
