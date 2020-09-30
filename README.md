@@ -32,4 +32,4 @@ I used a simple cardboard box and cut holes out of it to match where the compone
 ### Arduino Code: written in C++
     code shown in the above file 
     
- ![code](https://github.com/danielmuthama/Gesture-controlled-lock-in-Arduino/blob/master/Arduinominiproject.mm)
+ ![Arduinominiproject.mm](https://github.com/danielmuthama/Gesture-controlled-lock-in-Arduino/blob/master/Arduinominiproject.mm)
