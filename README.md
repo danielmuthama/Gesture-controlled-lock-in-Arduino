@@ -31,7 +31,8 @@ I got most of my some of my hardware components from Jumia Kenya and the APDS-99
 > Enclosure
 
     I used a simple cardboard box and cut holes out of it to match where the components would go.
-    You could solder this all to a piece of board, but I just left it in the breadboard and connected jumper wires to the components.
+    You could solder this all to a piece of board, but I just left it in the breadboard
+    and connected jumper wires to the components.
   
 > Schematic
 <img src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/schematic_bb3_ojGtzuoycT.png" width="500" height="400" />
