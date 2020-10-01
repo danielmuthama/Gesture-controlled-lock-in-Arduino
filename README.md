@@ -19,7 +19,7 @@
 
 This project is cheap, and easy to implement. Feel free to use any kind of servo or latching mechanism with this project. This is meant to be a starting platform for a gesture-controlled lock.
 
-    I got most of my some of my hardware components from Jumia Kenya
+    I got most of my hardware components from Jumia Kenya
     and the APDS-9960 sensor from Spark fun.
     We could only use an Arduino Uno or Micro 3.3v,
     as any other board won't work for some odd reason.
