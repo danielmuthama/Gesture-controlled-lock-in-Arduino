@@ -13,13 +13,13 @@
     Resistor 1k ohm
     Software and online services
     Arduino IDE
-<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/09264-1.jpg" />
-<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/11026-02.jpg" />
-<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/181-02.jpg" />
-<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/A000066_iso_both.jpg" />
-<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/IDE_web.jpg" />
-<img align="left" alt="" width="24px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/MFR-25FBF52-4K75_sml.jpg" />
-<img align="" alt="" width="26px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/MFR-25FRF52-1K_sml.jpg" />
+<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/09264-1.jpg" />
+<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/11026-02.jpg" />
+<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/181-02.jpg" />
+<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/A000066_iso_both.jpg" />
+<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/IDE_web.jpg" />
+<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/MFR-25FBF52-4K75_sml.jpg" />
+<img align="" alt="" width="60px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/MFR-25FRF52-1K_sml.jpg" />
 
 > Note that:
   The APDS-9960 sensor does not work with the Arduino Nano or Mega 2560 (in my testing).
