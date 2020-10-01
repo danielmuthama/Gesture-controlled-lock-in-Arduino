@@ -41,6 +41,6 @@ This project is cheap, and easy to implement. Feel free to use any kind of servo
 <img src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/schematic_bb3_ojGtzuoycT.png" width="500" height="400" />
 
 ### Arduino Code: written in C++
-   > Code present in the below file 
+   > Code present in the file below 
     
    ![Arduinominiproject.mm](https://github.com/danielmuthama/Gesture-controlled-lock-in-Arduino/blob/master/Arduinominiproject.mm)
