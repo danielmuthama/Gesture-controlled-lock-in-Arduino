@@ -23,7 +23,7 @@ This project is cheap, and easy to implement. Feel free to use any kind of servo
     We could only use an Arduino Uno or Micro 3.3v, as any other board won't work for some odd reason.
 > Assembling procedure
 
-    Connect the LCD in board as shown.
+    - Connect the LCD in board as illustrated in the schematic below.
     - If you don't have a 10k potentiometer, use a 1k resistor and connect it to the GND. 
     - The APDS-9960 sensor need to be slightly shifted when using the Arduino Uno.
     - Connect SCL and SDA to a 4.7k resistor. Inorder to draw power connect 4.7k resistor to high 3.3v.
