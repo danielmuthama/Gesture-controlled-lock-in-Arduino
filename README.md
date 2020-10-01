@@ -19,18 +19,16 @@
 
 This project is cheap, and easy to implement. Feel free to use any kind of servo or latching mechanism with this project. This is meant to be a starting platform for a gesture-controlled lock.
 
-    I got most of my hardware components from Jumia Kenya
-    and the APDS-9960 sensor from Spark fun.
-    We could only use an Arduino Uno or Micro 3.3v,
-    as any other board won't work for some odd reason.
+    I got most of my hardware components from Jumia Kenya and the APDS-9960 sensor from Spark fun.
+    We could only use an Arduino Uno or Micro 3.3v, as any other board won't work for some odd reason.
 > Assembling procedure
 
     Connect the LCD in board as shown.
-    If you don't have a 10k potentiometer, use a 1k resistor and connect it to the GND. 
-    The APDS-9960 sensor need to be slightly shifted when using the Arduino Uno.
-    Connect SCL and SDA to a 4.7k resistor. Inorder to draw power connect 4.7k resistor to high 3.3v.
-    Connect them to A4 and A5, accordingly as shown in the schematic below. 
-    The Arduino can run off of a 9v battery with a DC power barrel attached.
+    - If you don't have a 10k potentiometer, use a 1k resistor and connect it to the GND. 
+    - The APDS-9960 sensor need to be slightly shifted when using the Arduino Uno.
+    - Connect SCL and SDA to a 4.7k resistor. Inorder to draw power connect 4.7k resistor to high 3.3v.
+    - Connect them to A4 and A5, accordingly as shown in the schematic below. 
+    - The Arduino can run off of a 9v battery with a DC power barrel attached.
 > Enclosure
 
     I used a simple cardboard box and cut holes out of it to match where the components would go.
