@@ -43,6 +43,7 @@ This project is cheap, and easy to implement. Feel free to use any kind of servo
     and connected jumper wires to the components.
   
 > Schematic
+
 Used to guide us when connecting the components
 <img src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/schematic_bb3_ojGtzuoycT.png" width="500" height="400" />
 
