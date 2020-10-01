@@ -21,8 +21,9 @@
 <img align="left" alt="" width="24px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/MFR-25FBF52-4K75_sml.jpg" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/danielmuthama/Gesture-controlled-lock-in-Arduino/master/components/MFR-25FRF52-1K_sml.jpg" />
 <br/>
+
 > Note that:
-    The APDS-9960 sensor does not work with the Arduino Nano or Mega 2560 (in my testing).
+  The APDS-9960 sensor does not work with the Arduino Nano or Mega 2560 (in my testing).
 
 This project is cheap, and easy to implement. Feel free to use any kind of servo or latching mechanism with this project. This is meant to be a starting platform for a gesture-controlled lock.
 
