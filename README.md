@@ -52,7 +52,7 @@ Used to guide us when connecting the components
 
 ### Arduino Code: written in C++
    > Code present in the file below 
-   
+   ### sample
     #include <Keypad.h>
     #include <LiquidCrystal.h>
     #include <Servo.h>
