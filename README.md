@@ -73,6 +73,6 @@ Used to guide us when connecting the components
     {'4', '5', '6'},
     {'7', '8', '9'},
     {'*', '0', '#'}
-    };
+    };...
     
    ![Arduinominiproject.mm](https://github.com/danielmuthama/Gesture-controlled-lock-in-Arduino/blob/master/Arduinominiproject.mm)
