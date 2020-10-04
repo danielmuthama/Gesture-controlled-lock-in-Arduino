@@ -52,5 +52,27 @@ Used to guide us when connecting the components
 
 ### Arduino Code: written in C++
    > Code present in the file below 
+   
+    #include <Keypad.h>
+    #include <LiquidCrystal.h>
+    #include <Servo.h>
+    Servo myservo;
+
+    LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);
+    #define Password_Lenght 7 // Give enough room for six chars + NULL char
+    int pos = 0;    // variable to store the servo position
+    char Data[Password_Lenght]; // 6 is the number of chars it can hold + the null char = 7
+    char Master[Password_Lenght] = "123456";
+    byte data_count = 0, master_count = 0;
+    bool Pass_is_good;
+    char customKey;
+    const byte ROWS = 4;
+    const byte COLS = 3;
+    char keys[ROWS][COLS] = {
+    {'1', '2', '3'},
+    {'4', '5', '6'},
+    {'7', '8', '9'},
+    {'*', '0', '#'}
+    };
     
    ![Arduinominiproject.mm](https://github.com/danielmuthama/Gesture-controlled-lock-in-Arduino/blob/master/Arduinominiproject.mm)
